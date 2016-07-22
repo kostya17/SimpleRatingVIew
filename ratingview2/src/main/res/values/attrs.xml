@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatingView">
+        <attr name="rv_max_rating" format="integer" />
+        <attr name="rv_inner_margin" format="dimension"/>
+        <attr name="rv_fill_color" format="color"/>
+        <attr name="rv_default_color" format="color"/>
+        <attr name="rv_view_size" format="dimension"/>
+    </declare-styleable>
+</resources>
